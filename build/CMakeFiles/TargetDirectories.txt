@@ -1,0 +1,3 @@
+/home/gamerm/desktop/projects/ImageViewer/build/CMakeFiles/iv.dir
+/home/gamerm/desktop/projects/ImageViewer/build/CMakeFiles/edit_cache.dir
+/home/gamerm/desktop/projects/ImageViewer/build/CMakeFiles/rebuild_cache.dir

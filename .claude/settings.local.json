@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dpkg -l)",
+      "Bash(pkg-config --cflags --libs sdl2)",
+      "Read(///wsl.localhost/Ubuntu-24.04/usr/include/**)",
+      "Bash(apt list *)"
+    ]
+  }
+}

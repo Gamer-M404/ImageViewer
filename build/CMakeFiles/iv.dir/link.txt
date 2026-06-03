@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/iv.dir/src/main.c.o CMakeFiles/iv.dir/src/sdl_manager.c.o CMakeFiles/iv.dir/src/file_manager.c.o -o iv  /usr/lib/x86_64-linux-gnu/libSDL2.so 
